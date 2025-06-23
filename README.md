@@ -1,16 +1,10 @@
-## Hi there, this is Blanca 👋
+## Hola, hi, hej! This is Blanca! 👋
 
-<!--
-**paniblanca/paniblanca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Blanca Paniello-Castillo! ✨
+I'm a PhD Fellow at the Barcelona Institute for Global Health (ISGlobal), currently studying how socioeconomic factors can explain the differences in adaptation towards climate change in Europe. 
+I also do some gender and risk perception stuff!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: blanca.paniello@isglobal.org
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+
+
