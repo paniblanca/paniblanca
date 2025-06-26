@@ -1,7 +1,7 @@
 ## Hola, hi, hej! This is Blanca! 👋
 
 This is Blanca Paniello-Castillo! ✨
-I'm a PhD Fellow at the Barcelona Institute for Global Health (ISGlobal), currently studying how socioeconomic factors can explain the differential climate change adaptation in Europe. 
+I'm a PhD Fellow at the Barcelona Institute for Global Health (ISGlobal), currently studying how socioeconomic factors can explain differential climate change adaptation in Europe. 
 
 I also do some gender and risk perception stuff!
 
