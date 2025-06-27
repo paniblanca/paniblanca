@@ -17,3 +17,6 @@ I also do some gender and risk perception stuff!
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID Profile" height="30" width="30" />
   </a>
 </p>
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paniblanca&theme=buefy)
+
