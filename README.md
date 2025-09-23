@@ -18,5 +18,6 @@ I also do some gender and risk perception stuff!
   </a>
 </p>
 
+![Summary Card]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paniblanca&theme=buefy
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paniblanca&theme=buefy)
 
