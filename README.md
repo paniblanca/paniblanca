@@ -16,6 +16,9 @@ I also do some gender and risk perception stuff!
   <a href="https://orcid.org/0000-0002-3754-6571" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID Profile" height="30" width="30" />
   </a>
+  <a href="https://blancapaniello.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/homeassistant.svg" alt="Website" height="30" width="30" />
+  </a>
 </p>
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paniblanca&theme=buefy)
